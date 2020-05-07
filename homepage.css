@@ -12,7 +12,7 @@ p{
 #welc{
   color: rgba(255, 69, 0, 0.94);
   font-family: sans-serif;
-
+  text-align: center;
 }
 
 #sensliHead{
@@ -27,7 +27,6 @@ p{
 
 #capDiv{
   position: absolute;
-
 }
 
 #sensors{
